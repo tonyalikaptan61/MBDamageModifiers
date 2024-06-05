@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+	<string id="DMG_MO_001" text="Melee Damage" />
+	<string id="DMG_MO_001H" text="Melee damage modifier, multiplicative with other modifiers. [Native: 1.00]" />
+	<string id="DMG_MO_002" text="Ranged Damage%" />
+	<string id="DMG_MO_002H" text="Ranged damage modifier, multiplicative with other modifiers. [Native: 1.00]" />
+	<string id="DMG_MO_003" text="Horse Charge Damage" />
+	<string id="DMG_MO_003H" text="Horse charge damage modifier, multiplicative with other modifiers. [Native: 1.00]" />
+	<string id="DMG_MO_004" text="Damage to Shields" />
+	<string id="DMG_MO_004H" text="Damage modifier against shields, multiplicative with other modifiers. [Native: 1.00]" />
+	<string id="DMG_MO_005" text="Damage to Objects" />
+	<string id="DMG_MO_005H" text="Damage modifier against objects, multiplicative with other modifiers. [Native: 1.00]" />
+	<string id="DMG_MO_006" text="Fall Damage" />
+	<string id="DMG_MO_006H" text="Damage modifier for fall damage, equal for everyone. [Native: 1.00]" />
+	<string id="DMG_MO_007" text="Battles etc." />
+	<string id="DMG_MO_007H" text="Attacker vs Victim in non-arena/tournament fights. Will be further modified by difficulty setting. [Native: 1.00]" />
+	<string id="DMG_MO_008" text="Arena &amp; Tournament" />
+	<string id="DMG_MO_008H" text="Attacker vs Victim, in Arena and tournament fights. Will be further modified by difficulty setting. [Native: 1.00]" />
+	<string id="DMG_MO_009" text="Player vs Player" />
+	<string id="DMG_MO_010" text="Hero vs Player" />
+	<string id="DMG_MO_011" text="Other vs Player" />
+	<string id="DMG_MO_012" text="Player vs Hero" />
+	<string id="DMG_MO_013" text="Hero vs Hero" />
+	<string id="DMG_MO_014" text="Other vs Hero" />
+	<string id="DMG_MO_015" text="Player vs Other" />
+	<string id="DMG_MO_016" text="Hero vs Other" />
+	<string id="DMG_MO_017" text="Other vs Other" />
+  </strings>
+</base>

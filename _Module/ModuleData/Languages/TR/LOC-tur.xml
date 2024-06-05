@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+	<string id="DMG_MO_001" text="Yakın Dövüş Hasarı" />
+	<string id="DMG_MO_001H" text="Yakın dövüş hasarı çarpanı. Diğer çarpanlarla çarpım durumundadır. [Native: 1.00]" />
+	<string id="DMG_MO_002" text="Menzilli Hasar" />
+	<string id="DMG_MO_002H" text="Menzilli hasar çarpanı. Diğer çarpanlarla çarpım durumundadır. [Native: 1.00]" />
+	<string id="DMG_MO_003" text="At Çarpma Hasarı" />
+	<string id="DMG_MO_003H" text="At çarpma hasarı çarpanı. Diğer çarpanlarla çarpım durumundadır. [Native: 1.00]" />
+	<string id="DMG_MO_004" text="Kalkanlara Karşı Hasar" />
+	<string id="DMG_MO_004H" text="Kalkanlara karşı hasar çarpanı. Diğer çarpanlarla çarpım durumundadır. [Native: 1.00]" />
+	<string id="DMG_MO_005" text="Yapılara Karşı Hasar" />
+	<string id="DMG_MO_005H" text="Yapılara karşı hasar çarpanı. Diğer çarpanlarla çarpım durumundadır. [Native: 1.00]" />
+	<string id="DMG_MO_006" text="Düşme Hasarı" />
+	<string id="DMG_MO_006H" text="Düşme hasarı çarpanı. Herkes için eşittir. [Native: 1.00]" />
+	<string id="DMG_MO_007" text="Savaşlar vb." />
+	<string id="DMG_MO_007H" text="Arena dışındaki savaşlarda geçerli hasar çarpanları (Saldırgan vs Hedef). Zorluk ayarına göre de değişkenlik gösterir. [Native: 1.00]" />
+	<string id="DMG_MO_008" text="Arena &amp; Turnuva" />
+	<string id="DMG_MO_008H" text="Arena ve turnuva dövüşlerinde geçerli hasar çarpanları (Saldırgan vs Hedef) Zorluk ayarına göre de değişkenlik gösterir. [Native: 1.00]" />
+	<string id="DMG_MO_009" text="Oyuncu vs Oyuncu" />
+	<string id="DMG_MO_010" text="Kahraman vs Oyuncu" />
+	<string id="DMG_MO_011" text="Diğer vs Oyuncu" />
+	<string id="DMG_MO_012" text="Oyuncu vs Kahraman" />
+	<string id="DMG_MO_013" text="Kahraman vs Kahraman" />
+	<string id="DMG_MO_014" text="Diğer vs Kahraman" />
+	<string id="DMG_MO_015" text="Oyuncu vs Diğer" />
+	<string id="DMG_MO_016" text="Kahraman vs Diğer" />
+	<string id="DMG_MO_017" text="Diğer vs Diğer" />
+  </strings>
+</base>
